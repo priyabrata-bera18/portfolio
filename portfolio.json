@@ -1,0 +1,93 @@
+{
+  "portfolio": {
+    "personalInfo": {
+      "fullname": "Priyabrata Bera",
+      "title": "BCA Student & Web Developer",
+      "tagline": "Passionate about Web Development, Programming and Problem Solving",
+      "phone": "9064354375",
+      "location": "Contai, West Bengal, India",
+      "profileImage": "https://png.pngtree.com/png-clipart/20230927/original/pngtree-man-avatar-image-for-profile-png-image_13001882.png"
+    },
+
+    "about": {
+      "description": "I am a BCA student passionate about frontend and backend development. I love building responsive websites, learning new technologies and solving coding problems.",
+      "careerObjective": "To become a skilled full stack developer and work on real world projects."
+    },
+
+    "education": [
+      {
+        "level": "Secondary (10th)",
+        "school": "Contai Model Institution",
+        "board": "WBBSE",
+        "year": "2021",
+        "percentage": "83%"
+      },
+
+      {
+        "level": "Higher Secondary (12th)",
+        "school": "Contai Model Institution",
+        "board": "WBCHSE",
+        "stream": "Bio-Science",
+        "year": "2024",
+        "percentage": "84%"
+      },
+
+      {
+        "degree": "Bachelor of Computer Applications",
+        "department": "BCA",
+        "college": "Contai College of Learning & Management Science",
+        "university": "MAKAUT",
+        "roll": "34042724049",
+        "session": "2024 - 2027",
+        "firstsemsgpa": "8.64",
+        "secondsemsgpa": "8.41",
+        "thirdsemsgpa": "8.29"
+      }
+    ],
+
+    "skills": {
+      "frontend": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "Tailwind CSS"
+      ],
+
+      "backend": [
+        "PHP"
+      ],
+
+      "database": [
+        "MySQL"
+      ],
+
+      "languages": [
+        "C",
+        "Python",
+        "JavaScript",
+        "PHP"
+      ],
+
+      "tools": [
+        "Git",
+        "GitHub"
+      ]
+    },
+
+    "projects": [
+      {
+        "id": 1,
+        "title": "E-Commerce Website",
+        "description": "A fully responsive ecommerce website with cart, authentication and admin dashboard.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "MySQL"
+        ]
+      }
+    ]
+  }
+}
